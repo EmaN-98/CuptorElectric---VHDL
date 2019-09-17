@@ -1,0 +1,24 @@
+170
+~E 1 "./../src/and.vhd" 4 AND_GATE
+~A 1 "./../src/and.vhd" 11 behv
+~E 1 "./../src/and.vhd" 4 ANDn
+~A 1 "./../src/and.vhd" 10 dataflow
+~E 1 "./../src/comp8.vhd" 4 compare
+~A 1 "./../src/comp8.vhd" 13 Behavioral
+~E 1 "./../src/counter1.vhd" 7 COUNT8
+~A 1 "./../src/counter1.vhd" 19 behavior
+~E 1 "./../src/jkhszkfa.vhd" 5 counter
+~E 1 "./../src/counter1.vhd" 7 COUNTn
+~A 1 "./../src/counter1.vhd" 19 behavior
+~E 1 "./../src/counter2.vhd" 6 entNum
+~A 1 "./../src/counter2.vhd" 12 arch_numarator
+~E 1 "./../src/eProiect.vhd" 5 entProiect
+~A 1 "./../src/eProiect.vhd" 22 archProiect
+~E 1 "./../src/inv.vhd" 4 INV
+~A 1 "./../src/inv.vhd" 9 comportamental
+~E 1 "./../src/counter2.vhd" 6 Num
+~A 1 "./../src/counter2.vhd" 12 arch_Numarator
+~A 1 "./../src/counter2.vhd" 11 numarator
+~E 1 "./../src/eProiect.vhd" 5 proiect
+~E 1 "./../src/or2.vhd" 4 SAU
+~A 1 "./../src/or2.vhd" 9 comportamental

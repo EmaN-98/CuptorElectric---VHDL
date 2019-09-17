@@ -1,0 +1,38 @@
+Active-HDL 10.5.217.6767 2018-05-16 13:19:46
+
+Elaboration top modules:
+Architecture                  archProiect(entProiect)
+
+
+---------------------------------------------------------------------------------------------
+Entity     | Architecture   | Library | Info | Compiler Version        | Compilation Options
+---------------------------------------------------------------------------------------------
+entProiect | archProiect    | ecuptor |      | 10.5.217.6767 (Windows) | -O3
+compare    | Behavioral     | ecuptor |      | 10.5.217.6767 (Windows) | -O3
+Num        | arch_Numarator | ecuptor |      | 10.5.217.6767 (Windows) | -O3
+ANDn       | dataflow       | ecuptor |      | 10.5.217.6767 (Windows) | -O3
+---------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+VHDL Package                | Library | Info | Compiler Version        | Compilation Options
+---------------------------------------------------------------------------------------------
+standard                    | std     |      |                         | <unavailable>
+TEXTIO                      | std     |      |                         | <unavailable>
+std_logic_1164              | ieee    |      |                         | <unavailable>
+std_logic_arith             | ieee    |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED          | ieee    |      |                         | <unavailable>
+---------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+Library                     | Comment
+---------------------------------------------------------------------------------------------
+ecuptor                     | None
+ieee                        | Standard IEEE packages library
+std                         | Standard VHDL library
+---------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim -O5 +access +r +m+entProiect entProiect archProiect
+
+
+The performance of simulation is reduced. Version Student Edition

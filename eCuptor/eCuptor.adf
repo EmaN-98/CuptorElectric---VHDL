@@ -1,0 +1,84 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=eCuptor
+
+[Library]
+eCuptor=.\eCuptor\eCuptor.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+eCuptor=.
+Active_lib=
+
+[IMPLEMENTATION]
+UCF=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=entproiect|archProiect|0  
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/counter1.vhd=-1
+/comp8.vhd=-1
+/eProiect.vhd=-1
+/inv.vhd=-1
+/and.vhd=-1
+/or2.vhd=-1
+/counter2.vhd=-1
+/schema-bloc.bde=-1
+/funct-normala.asdb=-1
+/funct-normala.awc=-1
+/funct-siguranta.asdb=-1
+/funct-siguranta.awc=-1
+/funct-nepermis.asdb=-1
+/funct-nepermis.awc=-1
+
+[Files.Data]
+.\src\counter1.vhd=VHDL Source Code
+.\src\comp8.vhd=VHDL Source Code
+.\src\eProiect.vhd=VHDL Source Code
+.\src\inv.vhd=VHDL Source Code
+.\src\and.vhd=VHDL Source Code
+.\src\or2.vhd=VHDL Source Code
+.\src\counter2.vhd=VHDL Source Code
+.\src\schema-bloc.bde=Block Diagram
+.\src\funct-normala.asdb=Accelerated Waveform File
+.\src\funct-normala.awc=Accelerated Waveform Configuration
+.\src\funct-siguranta.asdb=Accelerated Waveform File
+.\src\funct-siguranta.awc=Accelerated Waveform Configuration
+.\src\funct-nepermis.asdb=Accelerated Waveform File
+.\src\funct-nepermis.awc=Accelerated Waveform Configuration
+

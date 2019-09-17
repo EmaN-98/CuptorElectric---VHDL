@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: d:\Ema ^_^\VHDL\eCUPTOR\eCuptor\src\eProiect.vhd" 
+MESSAGE "Compile Entity "entProiect"" 
+MESSAGE "Compile Architecture "archProiect" of Entity "entProiect"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
